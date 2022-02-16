@@ -6,7 +6,7 @@ Neste projeto foram realizadas analises exploratórias sobre o preço de venda d
 
 
 
-## Para vizualizar as analises será necessário:
+## Para visualizar as analises será necessário:
 Acessar o [notebook](https://www.kaggle.com/mrcioestevamdasilva/modulo-4-pandas-resilia) e rodar todas células em ordem.
 
 
