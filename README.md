@@ -1,7 +1,7 @@
 
-# Analises usando Pandas - Resilia Módulo 4
+# Análises usando Pandas - Resilia Módulo 4
 
-Neste projeto foram realizadas analises exploratórias sobre o preço de venda de combustíveis nos meses de Junho e Julho de 2021.
+Neste projeto foram realizadas análises exploratórias sobre o preço de venda de combustíveis nos meses de Junho e Julho de 2021.
 
 
 
